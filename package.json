@@ -1,0 +1,32 @@
+{
+  "name": "serverless-sms-login",
+  "version": "0.0.4",
+  "description": "Simple Digits Clone using Serverless, GraphQL, SMS via SNS, React and Redux",
+  "author": {
+    "name": "David Kelley"
+  },
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidkelley/serverless-sms-login.git"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.4.8",
+    "lodash": "^4.6.1",
+    "bluebird": "^3.3.4",
+    "serverless-client-s3": "^2.0.0",
+    "serverless-cors-plugin": "^0.4.1",
+    "serverless-meta-sync": "^0.1.0",
+    "serverless-offline": "^2.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/davidkelley/serverless-sms-login/issues"
+  },
+  "homepage": "https://github.com/davidkelley/serverless-sms-login#readme",
+  "scripts": {},
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/serverless-graphql-0.0.4.tgz_1460768832694_0.5603838413953781"
+  }
+}

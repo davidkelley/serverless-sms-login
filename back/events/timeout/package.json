@@ -1,0 +1,15 @@
+{
+  "name": "sns-sender",
+  "version": "0.0.1",
+  "description": "Sends authentication messages via SNS",
+  "author": "me",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidkelley/serverless-sms-login"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.4.8"
+  }
+}
